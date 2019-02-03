@@ -1,0 +1,6 @@
+framework module Pods_CodingTask {
+  umbrella header "Pods-CodingTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
